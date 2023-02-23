@@ -21,6 +21,7 @@ In this repository, we focused in what risk factors are most predictive of diabe
 
 During the SQL portion, important questions were answered about general physicalhealth (difficulty walking, diabetes, physical illness, BMI, etc.), lifestyle choices
 (smoking), and demographic information (education, income, sex) in our dataset.
+![SQL image](https://user-images.githubusercontent.com/119077434/221017654-fc325f50-30dd-4fa5-ba8f-ea01b5254f23.png)
 
 
 ## Tableau Portion
